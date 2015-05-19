@@ -1,7 +1,7 @@
 set nocompatible
 set incsearch
 set wildmenu wildmode=list:full
-colorscheme molokai
+colorscheme hybrid
 syntax on
 set nohlsearch
 set cursorline
